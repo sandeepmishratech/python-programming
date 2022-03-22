@@ -108,5 +108,13 @@ Here is the list that you need to follow to kick start your journey on Python Pr
 - [Regular Expression](https://www.scaler.com/topics/python/regular-expression-in-python/)
 - [Datetime in Python](https://www.scaler.com/topics/python/datetime-python/)
 
+## Python Application in Programming Languages
+
+- [Python for Full Stack Development](https://www.scaler.com/courses/full-stack-developer/)
+- [Python for Data Science](https://www.scaler.com/data-science-course/)
+- [Python for Machine Learning](https://www.scaler.com/courses/machine-learning-course-training/)
+- [Python for System Design](https://www.scaler.com/courses/system-design/)
+- [Python for Web Development](https://www.scaler.com/courses/web-development/)
+- [Python for Data Structures and Algorithms](https://www.scaler.com/courses/data-structures-and-algorithms/)
 
 ## Happy Learning!
