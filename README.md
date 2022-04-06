@@ -1,5 +1,7 @@
 ## All Important Resources of Python Programming in One Bucket.
 
+[![Join the chat at https://gitter.im/Learn-Programming-From-Scaler-Topics/learnpython](https://badges.gitter.im/Learn-Programming-From-Scaler-Topics/learnpython.svg)](https://gitter.im/Learn-Programming-From-Scaler-Topics/learnpython?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Why You Should Learn Python?
 
 Learning Python and writing computer programs is the profession valuable, this open doors for opportunity. The increase of Python Developers which is increasing drastically year by year, 25% of the total requirement is for Python. There is lot of opportunity for it.
