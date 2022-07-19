@@ -4,7 +4,7 @@
 
 ## Why You Should Learn Python?
 
-Learning Python and writing computer programs is the profession valuable, this open doors for opportunity. The increase of Python Developers which is increasing drastically year by year, 25% of the total requirement is for Python. There is lot of opportunity for it.
+Learning [Python](https://www.scaler.com/topics/python/) and writing computer programs is the profession valuable, this open doors for opportunity. The increase of Python Developers which is increasing drastically year by year, 25% of the total requirement is for Python. There is lot of opportunity for it.
 
 ## Why You Should Learn From it?
 
